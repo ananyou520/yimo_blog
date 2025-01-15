@@ -1,0 +1,16 @@
+<svg id="下载" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.178" x2="0.753" y2="0.833" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3fafff"/>
+      <stop offset="1" stop-color="#2b92ff"/>
+    </linearGradient>
+  </defs>
+  <g id="下载-2" data-name="下载">
+    <g id="图标_S_视频_下载中心_Copy_7" data-name="图标 / S / 视频 / 下载中心 Copy 7" transform="translate(20 18.667)">
+      <rect id="矩形_copy_24" data-name="矩形 copy 24" width="80" height="77.701" rx="9" transform="translate(0 8.966)" fill="url(#linear-gradient)"/>
+      <path id="路径_copy_4" data-name="路径 copy 4" d="M0,16.935,15.5,0,31,16.935" transform="translate(56 60.766) rotate(-180)" fill="none" stroke="#0f6cff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="12"/>
+      <path id="直线_copy_2" data-name="直线 copy 2" d="M.5,0V25.9" transform="translate(40 0.204)" fill="none" stroke="#72f0e8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="12"/>
+      <path id="直线_copy_3" data-name="直线 copy 3" d="M.5,0V51.8" transform="translate(40 8.966)" fill="none" stroke="#0f6cff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

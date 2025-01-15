@@ -1,0 +1,14 @@
+<svg id="编辑" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" y1="-0.08" x2="1.098" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3fafff"/>
+      <stop offset="1" stop-color="#2b92ff"/>
+    </linearGradient>
+  </defs>
+  <g id="编辑-2" data-name="编辑">
+    <g id="贴吧" transform="translate(13.333 5.333)">
+      <rect id="矩形" width="90.667" height="90.667" rx="24" transform="translate(0 12)" fill="url(#linear-gradient)"/>
+      <rect id="矩形-2" data-name="矩形" width="80" height="18.667" rx="9.333" transform="translate(32.619 56.569) rotate(-45)" fill="#4bc4ff" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="榜单_第一" data-name="榜单/第一" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="121.333" viewBox="0 0 120 121.333">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9d0c"/>
+      <stop offset="1" stop-color="#ffb015"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffce24"/>
+      <stop offset="1" stop-color="#ffdc24"/>
+    </linearGradient>
+  </defs>
+  <g id="榜单_第一-2" data-name="榜单/第一">
+    <rect id="Mask" width="104" height="56" rx="8" transform="translate(8 50.667)" fill="url(#linear-gradient)"/>
+    <g id="Rectangle_8_Copy_3" data-name="Rectangle 8 Copy 3" transform="translate(26.667 10.667)">
+      <path id="Mask-2" data-name="Mask" d="M12,0H54.667a12,12,0,0,1,12,12V96a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_8_Copy_3-2" data-name="Rectangle 8 Copy 3" width="104" height="70.667" rx="8" transform="translate(-18.667 40)" fill="#ffae00" opacity="0.498"/>
+    </g>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M0,40V30.667H5.333V11.556h-4L5.333,0h12V30.667h5.333V40Z" transform="translate(49.333 29.333)" fill="#fb8606"/>
+  </g>
+</svg>

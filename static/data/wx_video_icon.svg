@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="138" viewBox="0 0 120 138">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.732" y1="1" x2="0.265" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff406c"/>
+      <stop offset="1" stop-color="#ff629f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.448" y1="0.557" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff84b9"/>
+      <stop offset="1" stop-color="#e61678"/>
+    </linearGradient>
+  </defs>
+  <g id="礼包_活动" data-name="礼包/活动" transform="translate(0 18)">
+    <g id="礼包_活动-2" data-name="礼包/活动" transform="translate(0 -18)">
+      <rect id="矩形" width="88" height="74.667" rx="12" transform="translate(16 53.265)" fill="url(#linear-gradient)"/>
+      <path id="合并形状" d="M12,56A12,12,0,0,1,0,44V6.666A6.666,6.666,0,0,1,6.666,0h8a6.667,6.667,0,0,1,6.667,6.666v28h28A6.666,6.666,0,0,1,56,41.333v8A6.666,6.666,0,0,1,49.333,56Z" transform="translate(20.402 39.598) rotate(-45)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

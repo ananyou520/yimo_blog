@@ -1,0 +1,18 @@
+<svg id="icon_购物_物价" data-name="icon_购物/物价" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3ca5ff"/>
+      <stop offset="1" stop-color="#1c6cfe"/>
+    </linearGradient>
+  </defs>
+  <g id="编组_10" data-name="编组 10" transform="translate(6.667 3.429)">
+    <g id="编组_8" data-name="编组 8" transform="translate(0 0)">
+      <path id="形状结合" d="M82.089,54.445H13.378a8.9,8.9,0,0,1-8.823-7.808L.066,9.969A8.888,8.888,0,0,1,8.888,0H86.579A8.888,8.888,0,0,1,95.4,9.969l-4.49,36.667A8.9,8.9,0,0,1,82.089,54.445ZM65.512,17.778a3.337,3.337,0,0,0-3.334,3.334V37.778a3.333,3.333,0,1,0,6.666,0V21.111A3.337,3.337,0,0,0,65.512,17.778Zm-17.779,0A3.337,3.337,0,0,0,44.4,21.111V37.778a3.333,3.333,0,1,0,6.666,0V21.111A3.337,3.337,0,0,0,47.733,17.778Zm-17.778,0a3.337,3.337,0,0,0-3.333,3.334V37.778a3.333,3.333,0,1,0,6.666,0V21.111A3.337,3.337,0,0,0,29.956,17.778Z" transform="translate(5.6 48.793)" fill="url(#linear-gradient)"/>
+      <rect id="矩形" width="106.667" height="24.444" rx="5" transform="translate(0 35.46)" fill="#2b99ff" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="编组_61" data-name="编组 61" transform="translate(20 0)">
+        <rect id="矩形-2" data-name="矩形" width="14.444" height="53.333" rx="6.5" transform="matrix(0.788, 0.616, -0.616, 0.788, 32.835, 0)" fill="#2b99ff" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <rect id="矩形复制_24" data-name="矩形复制 24" width="14.444" height="53.333" rx="6.5" transform="matrix(0.788, -0.616, 0.616, 0.788, 24.311, 9.14)" fill="#2b99ff" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>

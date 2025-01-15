@@ -1,0 +1,16 @@
+<svg id="视频_小视频" data-name="视频/小视频" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.732" y1="1" x2="0.265" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff406c"/>
+      <stop offset="1" stop-color="#ff629f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" y2="0.202" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff65a8"/>
+      <stop offset="1" stop-color="#ed348b"/>
+    </linearGradient>
+  </defs>
+  <g id="视频_小视频-2" data-name="视频/小视频">
+    <rect id="矩形" width="82.667" height="85.333" rx="12" transform="translate(5.333 17.333)" fill="url(#linear-gradient)"/>
+    <path id="三角形" d="M21.84,22.844a12,12,0,0,1,21.682,0L64.59,67.237a8,8,0,0,1-7.227,11.43H8A8,8,0,0,1,.773,67.237Z" transform="translate(34.973 92.682) rotate(-90)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

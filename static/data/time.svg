@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.667" height="76" viewBox="0 0 86.667 76">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.088" y1="1.163" x2="0.068" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd8802"/>
+      <stop offset="1" stop-color="#ffce24"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe235"/>
+      <stop offset="1" stop-color="#ffca32"/>
+    </linearGradient>
+  </defs>
+  <g id="阅读_书籍" data-name="阅读/书籍" transform="translate(-17.333 -22.667)">
+    <g id="小说" transform="translate(17.333 22.667)">
+      <path id="矩形" d="M9,0H37.38a12,12,0,0,1,12,12V64a12,12,0,0,1-12,12H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="矩形_copy" data-name="矩形 copy" d="M12,0H40.38a9,9,0,0,1,9,9V67a9,9,0,0,1-9,9H12A12,12,0,0,1,0,64V12A12,12,0,0,1,12,0Z" transform="translate(37.287 0)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

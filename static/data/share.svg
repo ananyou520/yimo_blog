@@ -1,0 +1,17 @@
+<svg id="时间_倒计时" data-name="时间/倒计时" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.732" y1="1" x2="0.265" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff406c"/>
+      <stop offset="1" stop-color="#ff629f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.314" x2="0" y2="0.314" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff84b9"/>
+      <stop offset="1" stop-color="#ff5ba8"/>
+    </linearGradient>
+  </defs>
+  <g id="时间_倒计时-2" data-name="时间/倒计时">
+    <path id="三角形" d="M34.138,3.5a8,8,0,0,1,13.221,0l31.1,45.627A10.667,10.667,0,0,1,69.642,65.8H11.856A10.667,10.667,0,0,1,3.041,49.122Z" transform="translate(19.251 40.871)" fill="url(#linear-gradient)"/>
+    <path id="三角形-2" data-name="三角形" d="M34.138-3.5a8,8,0,0,0,13.221,0l31.1-45.627A10.667,10.667,0,0,0,69.642-65.8H11.856A10.667,10.667,0,0,0,3.041-49.122Z" transform="translate(19.251 79.129)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="矩形" d="M.176,9.66A8,8,0,0,1,9.661.174L28.732,4.218,32.793,23.3a8,8,0,0,1-9.489,9.49L4.221,28.733Z" transform="translate(59.999 36.697) rotate(45)" fill="#e42955"/>
+  </g>
+</svg>

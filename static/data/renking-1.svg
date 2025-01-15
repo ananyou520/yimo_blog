@@ -1,0 +1,9 @@
+<svg id="我的服务_健康码" data-name="我的服务/健康码" xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="全国重点城市空气质量实时数据查询备份" transform="translate(6.667 17.778)">
+    <g id="编组_45" data-name="编组 45">
+      <rect id="矩形" width="106.667" height="76.667" rx="8" fill="#ffbb51"/>
+      <path id="椭圆形" d="M12.567,32.016A12.531,12.531,0,0,0,25.133,19.521L14.591,2.971a2.4,2.4,0,0,0-4.048,0L0,19.521A12.531,12.531,0,0,0,12.567,32.016Z" transform="translate(40.323 19.422)" fill="#ffbc61" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="矩形备份" d="M0,7.778A7.778,7.778,0,0,1,7.778,0H45.556a7.778,7.778,0,0,1,7.778,7.778h0a7.778,7.778,0,0,1-7.778,7.778H7.778A7.778,7.778,0,0,1,0,7.778Z" transform="translate(26.667 68.889)" fill="#ffbc61" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

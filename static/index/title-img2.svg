@@ -1,0 +1,12 @@
+<svg id="本地" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.165" y1="0.237" x2="1" y2="0.918" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#40afff"/>
+      <stop offset="1" stop-color="#137dff"/>
+    </linearGradient>
+  </defs>
+  <g id="本地-2" data-name="本地">
+    <path id="矩形" d="M8,0H69.333a8,8,0,0,1,8,8V46.667a12,12,0,0,1-12,12H12a12,12,0,0,1-12-12V8A8,8,0,0,1,8,0Z" transform="translate(21.333 50.667)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="矩形-2" data-name="矩形" d="M4.047,15.063A12,12,0,0,1,15.063,4.048L65.867.025a8,8,0,0,1,8.492,9.461L66.073,53.324a16,16,0,0,1-12.75,12.75L9.486,74.359A8,8,0,0,1,.025,65.867Z" transform="translate(59.855 2.466) rotate(45)" fill="#5cceff" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

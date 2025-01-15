@@ -1,0 +1,23 @@
+<svg id="更多_全景" data-name="更多/全景" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.936" y1="0.273" x2="0.183" y2="0.833" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc11d"/>
+      <stop offset="1" stop-color="#ffe55e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.204" y1="0.098" x2="0.72" y2="0.924" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd062"/>
+      <stop offset="1" stop-color="#ffdd50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1" y1="0.418" x2="0.064" y2="0.687" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9d0a"/>
+      <stop offset="1" stop-color="#fdb133"/>
+    </linearGradient>
+  </defs>
+  <g id="更多_全景-2" data-name="更多/全景">
+    <ellipse id="椭圆形" cx="29.333" cy="52" rx="29.333" ry="52" transform="translate(112 30.667) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="分组" transform="translate(30.1 8)">
+      <ellipse id="椭圆形-2" data-name="椭圆形" cx="29.333" cy="52" rx="29.333" ry="52" transform="translate(0)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="椭圆形-3" data-name="椭圆形" cx="29.333" cy="52" rx="29.333" ry="52" transform="translate(81.333 22.667) rotate(90)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

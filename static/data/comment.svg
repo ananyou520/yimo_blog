@@ -1,0 +1,16 @@
+<svg id="讨论_留言" data-name="讨论/留言" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.23" x2="0.667" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cb47"/>
+      <stop offset="1" stop-color="#0ab655"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.583" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3cdb42"/>
+      <stop offset="1" stop-color="#39ea5b"/>
+    </linearGradient>
+  </defs>
+  <g id="讨论_留言-2" data-name="讨论/留言">
+    <path id="合并形状" d="M22.512,79.214,6.758,83.388A1.333,1.333,0,0,1,5.1,81.879L7.707,66.255a41.948,41.948,0,1,1,14.8,12.96Z" transform="translate(6.667 8)" fill="url(#linear-gradient)"/>
+    <path id="合并形状-2" data-name="合并形状" d="M0,32A32,32,0,1,1,58.086,50.538l2.058,11.191a1.333,1.333,0,0,1-1.679,1.523L47.376,60.07A32.01,32.01,0,0,1,0,32Z" transform="translate(46.667 38.667)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

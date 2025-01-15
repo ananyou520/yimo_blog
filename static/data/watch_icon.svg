@@ -1,0 +1,16 @@
+<svg id="分类_更多" data-name="分类/更多" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.23" x2="0.667" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cb47"/>
+      <stop offset="1" stop-color="#0ab655"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.583" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3cdb42"/>
+      <stop offset="1" stop-color="#39ea5b"/>
+    </linearGradient>
+  </defs>
+  <g id="分类_更多-2" data-name="分类/更多">
+    <rect id="Rectangle_3_Copy_4" data-name="Rectangle 3 Copy 4" width="76" height="76" rx="12" transform="translate(13.333 13.333)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_3_Copy_5" data-name="Rectangle 3 Copy 5" width="58.667" height="58.667" rx="8" transform="translate(48 48)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

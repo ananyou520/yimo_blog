@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123.882" height="132.196" viewBox="0 0 123.882 132.196">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.288" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8bbd"/>
+      <stop offset="1" stop-color="#ff88ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.577" y1="1" x2="0.577" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff72a6"/>
+      <stop offset="1" stop-color="#ff72a8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.678" y1="0.572" x2="0.03" y2="0.453" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4f83"/>
+      <stop offset="1" stop-color="#ff527d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.045" y1="0.45" x2="1" y2="0.623" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff1565"/>
+      <stop offset="1" stop-color="#ff2c5e"/>
+    </linearGradient>
+  </defs>
+  <g id="钻石_推荐_会员" data-name="钻石/推荐/会员" transform="translate(1.682 12.196)">
+    <g id="钻石_推荐_会员-2" data-name="钻石/推荐/会员">
+      <g id="线上模板_copy_11_分组蒙版" data-name="线上模板 copy 11 + 分组蒙版">
+        <g id="分组" transform="translate(-1.333 -13.333)">
+          <path id="矩形" d="M39.385,0l3.3,42.69L0,39.385Z" transform="translate(61.651 1.138) rotate(45)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="矩形-2" data-name="矩形" d="M0,0,32.445,2.512A12,12,0,0,1,43.483,13.55l4.735,61.162A12,12,0,0,1,35.327,87.6L6.61,85.379Z" transform="translate(89.412 29.013) rotate(45)" fill="url(#linear-gradient-2)"/>
+          <path id="矩形-3" data-name="矩形" d="M0,0,85.379,6.61,87.6,35.327a12,12,0,0,1-12.89,12.89L13.55,43.483A12,12,0,0,1,2.512,32.445Z" transform="translate(33.772 28.928) rotate(45)" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="矩形-4" data-name="矩形" d="M0,0,42.69,3.3l2.223,28.717a12,12,0,0,1-12.89,12.89L3.3,42.69Z" transform="translate(61.626 61.458) rotate(45)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

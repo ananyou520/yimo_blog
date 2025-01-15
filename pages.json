@@ -1,0 +1,235 @@
+{
+  "pages": [{
+    "path": "pages/index",
+    "style": {
+      "navigationBarTitleText": "依沫博客",
+      "navigationStyle": "custom"
+    }
+  }
+  // ,{
+  //   "path": "pages/login",
+  //   "style": {
+  //     "navigationBarTitleText": "登录"
+  //   }
+  // }
+  
+  , {
+    "path": "pages/search/index",
+    "style": {
+      "navigationBarTitleText": "文章搜索",
+	  "enablePullDownRefresh": true,
+	  "navigationStyle": "custom"
+    }
+  }, {
+    "path": "pages/mine/index",
+    "style": {
+      "navigationStyle": "custom"
+    }
+  },
+  {
+  	"path" : "pages/blog/bloginfo",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "文章详情",
+  		"navigationStyle": "custom"
+  	}
+  },
+  {
+  	"path" : "pages/blog/resource",
+  	"style" : 
+  	{
+  		"navigationStyle": "custom"
+  	}
+  },
+  {
+  	"path" : "pages/tool/index",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "",
+  		"enablePullDownRefresh" : false,
+		"navigationStyle": "custom"
+  	}
+  },
+  {
+  	"path" : "pages/tool/resource",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "资源库",
+  		"enablePullDownRefresh" : true
+  	}
+  },
+  {
+  	"path" : "pages/tool/video",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "网盘视频",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/software",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "电脑软件",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/wallpaper",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "精美壁纸",
+  		"enablePullDownRefresh" : true
+  	}
+  },
+  {
+  	"path" : "pages/tool/exchange",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "积分兑换",
+  		"enablePullDownRefresh" : false,
+		"navigationStyle": "custom"
+  	}
+  },
+  {
+  	"path" : "pages/tool/computer",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "电脑壁纸",
+  		"enablePullDownRefresh" : true
+  	}
+  },
+  {
+  	"path" : "pages/mine/guanzhu",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/mine/integral_record",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "积分记录",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/mine/exchange_records",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "兑换记录",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/avatar",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "精美头像",
+  		"enablePullDownRefresh" : true
+  	}
+  },
+  {
+  	"path" : "pages/tool/look_img",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "",
+  		"enablePullDownRefresh" : false,
+		"navigationStyle": "custom"
+  	}
+  },
+  {
+  	"path" : "pages/tool/shuiyin",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "水印去除",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/shuiyin/problem",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "教程和问题",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/shuiyin/image",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "解析结果",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/shuiyin/video",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "解析结果",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/tool/phone",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "手机软件",
+  		"enablePullDownRefresh" : true
+  	}
+  },
+  {
+  	"path" : "pages/tool/exchangeinfo",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "兑换详情",
+  		"enablePullDownRefresh" : false
+  	}
+  },
+  {
+  	"path" : "pages/mine/lottery",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "幸运大抽奖",
+		"navigationStyle": "custom"
+  	}
+  }],
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#60c2ff",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [{
+        "pagePath": "pages/index",
+       "iconPath": "static/tabar/home.png",
+       "selectedIconPath": "static/tabar/home_1.png",
+        "text": "首页"
+      }, {
+        "pagePath": "pages/search/index",
+       "iconPath": "static/tabar/probe.png",
+       "selectedIconPath": "static/tabar/probe_1.png",
+        "text": "探索"
+      }, {
+        "pagePath": "pages/tool/index",
+       "iconPath": "static/tabar/follow.png",
+       "selectedIconPath": "static/tabar/follow_1.png",
+        "text": "宝库"
+      }, {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/tabar/my.png",
+        "selectedIconPath": "static/tabar/my_1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "easycom": {
+  		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+  	},
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "依沫博客",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  }
+}

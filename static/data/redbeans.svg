@@ -1,0 +1,21 @@
+<svg id="娱乐_唱歌" data-name="娱乐/唱歌" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="121.218" viewBox="0 0 120 121.218">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.732" y1="1" x2="0.265" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff406c"/>
+      <stop offset="1" stop-color="#ff629f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" y2="0.202" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff65a8"/>
+      <stop offset="1" stop-color="#ed348b"/>
+    </linearGradient>
+  </defs>
+  <g id="娱乐_唱歌-2" data-name="娱乐/唱歌">
+    <g id="娱乐">
+      <g id="Combined_Shape_矩形_矩形_Mask" data-name="Combined Shape + 矩形 + 矩形 Mask">
+        <path id="Combined_Shape" data-name="Combined Shape" d="M40,80A40,40,0,1,1,80,40,40,40,0,0,1,40,80Z" transform="translate(8 8)" fill="url(#linear-gradient)"/>
+        <path id="矩形" d="M.28,24.74A21.3,21.3,0,0,1,20.484.033l.473-.018a20.166,20.166,0,0,1,20.69,23.321L34.229,69.955A13.438,13.438,0,0,1,20.958,81.281h0A13.488,13.488,0,0,1,7.645,69.962Z" transform="translate(32.772 63.742) rotate(-45)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <rect id="矩形-2" data-name="矩形" width="9.333" height="18.667" rx="4.667" transform="translate(70.667 78.6) rotate(-45)" fill="#da1848" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>
