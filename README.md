@@ -31,18 +31,17 @@
 ## 技术支持
 
 - 如有问题或需要代部署搭建欢迎联系作者
-
 <table>
     <tr>
         <td align="center" bgcolor=#F6F8FA>微信</td>
         <td align="center" bgcolor=#F6F8FA>QQ</td>
     </tr>
     <tr>
-        <td bgcolor=#FFFFFF><img src="https://rlxx.vip/t/2025/02/14/67af09f3d75af.png"/></td>
-        <td bgcolor=#FFFFFF><img src="https://rlxx.vip/t/2025/02/14/67af09993b307.png"/></td>
+        <td bgcolor=#FFFFFF><img width = "300" src="https://simgs.emoboy.vip/appimg/bigwx.png"/></td>
+        <td bgcolor=#FFFFFF><img width = "300" src="https://img.eplusskin.com/uploads/20240730/qiuqiu3.png"/></td>
     </tr>
     <tr>
-        <td align="center">YiMoZiYuan666</td>
+        <td align="center">yimocc666</td>
         <td align="center">1149297946</td>
     </tr>
 </table>
